@@ -1,0 +1,5 @@
+venv
+part1_cli/__pycache__
+part2_api/__pycache__
+.env
+part1_cli/data

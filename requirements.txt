@@ -1,0 +1,54 @@
+# aiohttp
+# beautifulsoup4
+# aiofiles
+# numpy
+# # faiss-cpu
+# nest-asyncio
+# openai
+# tqdm
+# fastapi
+# uvicorn[standard]
+# httpx
+# python-multipart
+# pydantic
+# sentence-transformers # optional fallback for embeddings
+# # langchain==0.3.7
+# # openai==1.51.2
+# tiktoken==0.8.0
+
+# langchain==0.1.16 
+# langchain-community==0.0.34
+# langchain-core>=0.2.21
+# faiss-cpu>=1.8.0
+# openai>=1.14.3
+# langchain-openai>=0.2.0
+
+
+aiohttp
+aiofiles
+beautifulsoup4
+fastapi
+uvicorn[standard]
+httpx
+python-multipart
+pydantic
+tqdm
+nest-asyncio
+numpy
+sentence-transformers
+openai>=1.14.3
+tiktoken==0.8.0
+faiss-cpu>=1.8.0
+langchain>=0.2.14
+langchain-core>=0.2.21
+langchain-community>=0.2.11
+langchain-openai>=0.1.8
+langchain-text-splitters>=0.2.1
+transformers>=4.45.0
+torch>=2.3.0
+accelerate>=0.30.0
+huggingface_hub
+google-generativeai
+argparse
+python-dotenv>=1.0.1
+requests>=2.31.0
