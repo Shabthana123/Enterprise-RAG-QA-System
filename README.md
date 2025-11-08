@@ -38,9 +38,3 @@ setup.bat
 - **Cost-aware metrics**: tokens, latency, estimated LLM cost
 - **Webhook pattern** for long-running ingestion
 - **Concurrent batch querying**
-
-## To setup the environment
-
-```
-setup.bat
-```
